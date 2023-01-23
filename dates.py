@@ -1,5 +1,3 @@
-#!/usr/bin/env python 3
-
 import re
 
 date_pattern = re.compile("#[A-Fa-f0-9]{6}")
